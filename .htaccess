@@ -1,0 +1,17 @@
+RewriteEngine on
+
+RewriteRule ^index index.php [NC,L]
+
+RewriteRule ^profile profile.php [NC,L]
+
+RewriteRule ^auth auth.php [NC,L]
+
+RewriteRule ^login login.php [NC,L]
+
+RewriteRule ^signup signup.php [NC,L]
+
+RewriteRule ^bookmarklist bookmarkList.php [NC,L]
+
+RewriteRule ^logout logout.php [NC,L]
+
+RewriteRule ^changepassword changePassword.php [NC,L]

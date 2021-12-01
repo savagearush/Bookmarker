@@ -1,0 +1,15 @@
+
+.form-group input{
+    font-family: calibri;
+    font-size: 14px;
+    display: 
+}
+
+li{
+    list-style : none;
+}
+
+#changePswdForm{
+	width: 40%;
+	margin: 0px auto;
+}
